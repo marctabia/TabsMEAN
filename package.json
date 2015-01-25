@@ -1,0 +1,25 @@
+{
+  "name": "MEAN",
+  "version": "1.0.1",
+  "description": "MEAN Stack Sample as Tutorial",
+  "dependencies": {
+    "express": "latest",
+    "grunt": "latest",
+    "morgan": "latest",
+    "compression": "latest",
+    "body-parser": "latest",
+    "method-override": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MongoDB",
+    "Express",
+    "AngularJS",
+    "Node.js"
+  ],
+  "author": "Marc Tabia",
+  "license": "MIT"
+}
