@@ -9,6 +9,7 @@
     "compression": "latest",
     "body-parser": "latest",
     "method-override": "latest",
+    "express-session": "latest",
     "ejs": "latest"
   },
   "devDependencies": {},
